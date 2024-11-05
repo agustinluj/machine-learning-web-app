@@ -15,5 +15,6 @@ async def get_cuadrado(numero):
     else:
         return f'Resultado: {numero**2}'
 
+print('Let us see')
 
     
